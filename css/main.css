@@ -1118,13 +1118,14 @@ input::-moz-focus-inner {
 
 .subhead {
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 1.7rem;
+  font-size: 2rem;
   line-height: 1.333;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
   color: #da251c;
   margin-top: 0;
   margin-bottom: 0;
+  font-weight: 500;
 }
 
 .subhead--dark {
@@ -2694,7 +2695,10 @@ html.cl-loaded .home-content__main {
 
 .clients-testimonials .testimonials__name {
   font-family: 'Plus Jakarta Sans', sans-serif;
-  color: #000000;
+  color: #121317;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: .25em;
 }
 
 .clients-testimonials .testimonials__pos {
@@ -3490,7 +3494,8 @@ footer .row {
 
 .subhead-title {
   text-transform: capitalize;
-  font-size: 1.75rem;
+  font-size: 2.75rem;
+  font-weight: 600;
 }
 
 .powered {
