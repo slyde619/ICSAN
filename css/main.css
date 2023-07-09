@@ -2681,6 +2681,10 @@ html.cl-loaded .home-content__main {
   padding: 0 0 3rem 0;
 }
 
+.testimonials__slide p {
+  text-transform: capitalize;
+}
+
 .clients-testimonials .testimonials__avatar {
   height: 8.4rem;
   width: 8.4rem;
