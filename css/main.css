@@ -2681,7 +2681,7 @@ html.cl-loaded .home-content__main {
   padding: 0 0 3rem 0;
 }
 
-.testimonials__slide p {
+.testimonials__slide p::first-letter {
   text-transform: capitalize;
 }
 
